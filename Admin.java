@@ -10,7 +10,7 @@ package _account;
  */
 public class Admin extends _Account{
     // A private string specified only with the Admin
-
+//new
     private String AuthPassword;
 
     public Admin(int _id, String _name, String _password) {
